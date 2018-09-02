@@ -1,4 +1,4 @@
-# markdown-it-header-sections [![Build Status](https://travis-ci.org/arve0/markdown-it-header-sections.svg)](https://travis-ci.org/arve0/markdown-it-header-sections) [![npm version](https://badge.fury.io/js/markdown-it-header-sections.svg)](http://badge.fury.io/js/markdown-it-header-sections)
+# markdown-it-header-sections [![Build Status](https://travis-ci.org/GerHobbelt/markdown-it-header-sections.svg)](https://travis-ci.org/GerHobbelt/markdown-it-header-sections) [![npm version](https://badge.fury.io/js/%40gerhobbelt%2Fmarkdown-it-header-sections.svg)](http://badge.fury.io/js/%40gerhobbelt%2Fmarkdown-it-header-sections)
 
 
 Renders this markdown

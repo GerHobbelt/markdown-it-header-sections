@@ -1,6 +1,6 @@
 
 var assert = require('assert');
-var Md = require('markdown-it');
+var Md = require('@gerhobbelt/markdown-it');
 var multiline = require('multiline');
 var headerSections = require('./');
 
@@ -47,7 +47,7 @@ describe('markdown-it-header-sections', function(){
       </section>
 
     */});
-    md.use(require('markdown-it-attrs'));
+    md.use(require('@gerhobbelt/markdown-it-attrs'));
     md.use(headerSections);
     var res = md.render(src);
     assert.equal(res, expected);
